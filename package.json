@@ -2,7 +2,8 @@
   "name": "api4-guided",
   "scripts": {
     "start": "node index.js",
-    "startNd": "nodemon index.js"
+    "startNd": "nodemon index.js",
+    "vercel-build": "npm run build"
   },
   "repository": {
     "type": "git",
